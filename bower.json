@@ -1,0 +1,26 @@
+{
+  "name": "terminal",
+  "version": "0.1.0",
+  "homepage": "https://github.com/v3c70r/terminal",
+  "authors": [
+    "Tsing <mcvector.gu@gmail.com>"
+  ],
+  "description": "A Bower wrapped terminal",
+  "main": ["dist/terminal-1.0.0.min.js", "dist/terminal-1.0.0.min.css"]
+  "moduleType": [
+    "global",
+    "node"
+  ],
+  "keywords": [
+    "Bower",
+    "terminal"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
